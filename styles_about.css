@@ -1,0 +1,10 @@
+.set-border {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.about-me-text {
+    position: absolute; 
+    top: 160px;
+    left: 650px;
+}
